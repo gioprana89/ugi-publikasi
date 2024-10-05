@@ -30,7 +30,7 @@ with tab1:
    with col1:
      st.image("https://statkomat.com/gambar/ugi.png", caption='', width = 350)
    with col1:
-     st.markdown("<a href = 'https://statkomat.com/download_tulisan.php' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>STATKOMAT</b></font></a> | <a href = 'https://www.youtube.com/@STATKOMAT/videos' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>YOUTUBE</b></font></a>", unsafe_allow_html=True)
+     st.markdown("<a href = 'https://statkomat.com/download_tulisan.php' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>STATKOMAT</b></font></a> | <a href = 'https://www.youtube.com/@STATKOMAT/videos' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>YOUTUBE</b></font></a> | <a href = 'https://literaturereview.streamlit.app/' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>LITERATURE REVIEW</b></font></a> | <a href = 'https://daftar-paper.streamlit.app/' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>LIST OF PAPERS</b></font></a> | <a href = 'https://ugi-publikasi.streamlit.app/' target = '_blank' style = 'text-decoration:none'><font color = 'orange'><b>PUBLICATION</b></font></a>", unsafe_allow_html=True)
 
 
 
